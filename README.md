@@ -1,6 +1,6 @@
 # Time_calculator
 
-Time Calculator project from freeCodeCamp. View full directions [here] (https://repl.it/@chrudolf/boilerplate-time-calculator-1#time_calculator.py).
+Time Calculator project from freeCodeCamp. View full directions [here](https://repl.it/@chrudolf/boilerplate-time-calculator-1#time_calculator.py).
 
 Uses 'add_time' function to output a finish time, given a starting time and a duration as input.
 
